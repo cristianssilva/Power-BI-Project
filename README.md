@@ -6,3 +6,6 @@ https://app.powerbi.com/view?r=eyJrIjoiOTM4YzM0OWYtZWY3OC00ZTIzLWFiYjEtNzQzNTA2N
 
 ## Book Store
 https://app.powerbi.com/view?r=eyJrIjoiNzRhMWFmYTktNGE4OC00ZjFlLWFkYTMtZjNlMTcyNjE3YjQ1IiwidCI6IjEwZGVjNjBkLWFiODYtNDgwZC05NmI3LTU1MDk4YmQyZWEzNCJ9&pageName=ReportSectionb2a79f1a9013085b7c56
+
+## Sales Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYTFmZjdhYWQtY2Q3YS00ODgxLTliMWUtNjhlMTI5N2U2NDQ5IiwidCI6IjEwZGVjNjBkLWFiODYtNDgwZC05NmI3LTU1MDk4YmQyZWEzNCJ9
