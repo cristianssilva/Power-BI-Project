@@ -9,3 +9,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNzRhMWFmYTktNGE4OC00ZjFlLWFkYTMtZjNlMTcyN
 
 ## Sales Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiYTFmZjdhYWQtY2Q3YS00ODgxLTliMWUtNjhlMTI5N2U2NDQ5IiwidCI6IjEwZGVjNjBkLWFiODYtNDgwZC05NmI3LTU1MDk4YmQyZWEzNCJ9
+
+## HR Dashboard
+https://app.powerbi.com/groups/me/reports/dad91be5-9c33-4b93-b1f5-c727e1e9a436/ReportSection?bookmarkGuid=Bookmark08e3457ea3120c70430b
